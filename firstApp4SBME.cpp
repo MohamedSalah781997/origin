@@ -2,18 +2,19 @@
 
 namespace rectangle
 {
-  double area( double width , double height )
-  {
-    return width * height;
-  }
+  
+
+
+
+  
 }
 
 namespace triangle
 {
-  double area( double base , double height )
-  {
-    return ( base * height ) / 2;
-  }
+  
+
+
+
 }
 
 int main()
